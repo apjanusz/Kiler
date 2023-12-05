@@ -6,6 +6,14 @@
 *\Library\*
 */Temp/*
 *\Temp\*
+*/Obj/*
+*\Obj\*
+*/Builds/*
+*\Builds\*
+*/Logs/*
+*\Logs\*
+*/UserSettings/*
+*\UserSettings\*
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
